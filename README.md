@@ -20,7 +20,11 @@ I'm a passionate Web developer from Bangladesh.
 ## My Stats
 <div style="display: flex; justify-content: space-between;" >
 
-![Repos per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ForhadAhmed367423&theme=darcula)
+<div>
+
+![Repos per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ForhadAhmed367423&theme=darcula) 
+
+</div>
 
 ![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ForhadAhmed367423&theme=darcula)
 
