@@ -30,6 +30,8 @@ I'm a passionate Web developer from Bangladesh.
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ForhadAhmed367423&theme=darcula&utcOffset=8" alt="xd">
 </div>
 
+ ![sd](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ForhadAhmed367423&theme=darcula) 
+
 </div>
 
 
@@ -41,6 +43,5 @@ I'm a passionate Web developer from Bangladesh.
 </p>
 
 
-## hello world 
 
 
