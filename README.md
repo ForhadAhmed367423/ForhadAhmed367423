@@ -6,7 +6,7 @@
 
 
 ## My Stats
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; gap: 40px ">
 
 ![Repos per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ForhadAhmed367423&theme=darcula)
 
