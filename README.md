@@ -6,21 +6,14 @@
 
 
 ## My Stats
-<div style="display: flex; justify-content: space-between ;">
+<div style="display: flex; justify-content: space-between;">
 
+![Repos per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ForhadAhmed367423&theme=darcula)
 
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ForhadAhmed367423&theme=darcula)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ForhadAhmed367423&theme=darcula)
-
-
-
-
-
-
+![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ForhadAhmed367423&theme=darcula)
 
 </div>
+
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ForhadAhmed367423&theme=prussian&hide_border=true)](https://git.io/streak-stats)
 
