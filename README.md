@@ -18,25 +18,16 @@ I'm a passionate Web developer from Bangladesh.
 
 
 ## My Stats
-<div style="display: flex; justify-content: space-between;" >
-
-<div width="50%">
-
-![Repos per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ForhadAhmed367423&theme=darcula) 
-
-</div>
-
-<div width="50%"> 
-
-![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ForhadAhmed367423&theme=darcula)
-</div>
-
-</div>
-
-
 <div align="center">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ForhadAhmed367423&theme=prussian&hide_border=true)](https://git.io/streak-stats)
+
+<div>
+
+ ![aaa](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ForhadAhmed367423&theme=darcula)
+
+
+</div>
 
 </div>
 
@@ -49,10 +40,5 @@ I'm a passionate Web developer from Bangladesh.
 </p>
 
 
-<div align="center">
 
- ![aaa](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ForhadAhmed367423&theme=darcula)
-
-
-</div>
 
