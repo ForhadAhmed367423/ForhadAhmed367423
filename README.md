@@ -22,7 +22,7 @@ Passionate Front-end React Developer | UI/UX Enthusiast | Open Source Contributo
 
 
 
-## My Stats
+## 📊 GitHub Stats
 <div align="center">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ForhadAhmed367423&theme=prussian&hide_border=true)](https://git.io/streak-stats)
