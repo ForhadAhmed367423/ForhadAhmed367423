@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://i.ibb.co/8LfWVdnn/Blue-White-Modern-Online-Business-Webinar-Banner-Landscape.png]"  />
+  <img src="https://drive.google.com/uc?export=view&id=1zoMgMc82j6MwCyLVbTDRH9gQxebwYJli"  />
 </p>
 
 <p align="center">
@@ -13,13 +13,13 @@
 <h4 align="center">A passionate Full Stack Developer from Bangladesh 🇧🇩</h4>
 
 <p align="center">
-  <a href="https://www.facebook.com/your_facebook" target="_blank">
+  <a href="https://www.facebook.com/https://www.facebook.com/forhadahT/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  <a href="https://wa.me/your_number" target="_blank">
+  <a href="https://wa.me/01609215694" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-  <a href="https://yourwebsite.netlify.app" target="_blank">
+  <a href="https://https://forhad-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
   </a>
 </p>
@@ -65,7 +65,7 @@
 <h4 align="center">📫 Connect With Me</h4>
 
 <p align="center">
-  <a href="mailto:forhadahmed367423@gmail.com">
+  <a href="mailto:afforhadah909@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/your-linkedin" target="_blank">
