@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://drive.google.com/uc?export=view&id=1uLsgJo8_GBS2uQxzp--Kb6xCvipj1gpb](https://i.ibb.co/8LfWVdnn/Blue-White-Modern-Online-Business-Webinar-Banner-Landscape.png)"  />
+  <img src="[https://i.ibb.co/8LfWVdnn/Blue-White-Modern-Online-Business-Webinar-Banner-Landscape.png]"  />
 </p>
 
 <p align="center">
