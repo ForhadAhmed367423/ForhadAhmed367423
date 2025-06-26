@@ -45,7 +45,7 @@
 <h3 align="center">💻 Tech Stack & Tools</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,express,mongodb,git,github,vscode,firebase,figma,npm,vercel,netlify,ts,docker,postman,redux" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,express,mongodb,git,github,vscode,firebase,figma,npm,vercel,netlify,ts,redux" />
 </p>
 
 ---
